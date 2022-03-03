@@ -3,7 +3,7 @@
 
 <div>Contact</div>
 <a href="mailto:numpy.ai@gmail.com"><img src="https://img.shields.io/badge/numpy.ai@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/numpy_ai" target="_blank"><img src="https://img.shields.io/badge/@numpy.ai-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>&nbsp
+<a href="https://twitter.com/numpy_ai" target="_blank"><img src="https://img.shields.io/badge/@numpy.ai-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <br>
 
 <div>status</div>

@@ -6,6 +6,6 @@
 <a href="https://twitter.com/numpy_ai" target="_blank"><img src="https://img.shields.io/badge/@numpy.ai-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <br><br>
 
-<div>status</div>
+<div>Status</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numpy-ai&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

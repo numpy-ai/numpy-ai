@@ -1,4 +1,4 @@
-<div text>Main Language</div>
+<div text>Using Language</div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
 <div>Contact</div>
